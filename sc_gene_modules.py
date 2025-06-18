@@ -269,8 +269,3 @@ plt.title("Confusion Matrix: Human (True) vs Mouse-Trained Predictions")
 plt.tight_layout()
 plt.savefig(os.path.join(output_dir, "confusion_matrix_mouse_to_human.png"))
 plt.close()
-
-# in HPC with Human
-# True vs Predicted: 9899 x 2
-# Best test score: 71.72%
-# Accuracy 71.54%
