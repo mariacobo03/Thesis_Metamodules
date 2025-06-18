@@ -114,8 +114,8 @@ def fit_and_score(estimator, X_train, X_test, y_train, y_test):
 
 param_grid = {
     'learning_rate': [0.1],
-    'max_depth': [5],
-    'n_estimators': [100],
+    'max_depth': [3, 5],
+    'n_estimators': [50, 100],
     'subsample': [0.8],
     'colsample_bytree': [0.8]
 }
