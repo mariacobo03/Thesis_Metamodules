@@ -259,8 +259,3 @@ plt.title("Confusion Matrix: Human (True vs Predictions)")
 plt.tight_layout()
 plt.savefig(os.path.join(output_dir, "confusion_matrix_human.png"))
 plt.close()
-
-# in HPC with Human
-# True vs Predicted --> 9899 x 2
-# Best test score: 94.27%
-# accuracy with best parameters: 94.39%
