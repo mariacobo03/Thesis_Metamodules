@@ -16,9 +16,9 @@ across species, supporting evolutionary conservation of gene modules.
 
 ### 1. Code 
 
-<img src="results/computational_workflow.png" alt="Computational Workflow" width="250"/>
+<img src="results/computational_workflow.png" alt="Computational Workflow" width="500"/>
 
-* Computational workflow integrating gene co-expression modules with XGBoost classification. *
+*Computational workflow integrating gene co-expression modules with XGBoost classification.*
 
 ### 2. Results 
 
