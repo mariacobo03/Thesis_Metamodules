@@ -1,7 +1,7 @@
 ## Machine Learning tool for interpretable Single-Cell and Cross-Species analysis via Gene Modules 
 
 ---
-## Descripción del proyecto 
+## Abstract
 
 Development of a machine learning tool that enhances single-cell RNA 
 sequencing (scRNA-seq) classification using gene co-expression modules. 
@@ -13,7 +13,7 @@ across species, supporting evolutionary conservation of gene modules.
 
 ---
 
-## Información del proyecto
+## Extra Information 
 
 **Título:**  
  
