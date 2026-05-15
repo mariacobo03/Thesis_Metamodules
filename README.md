@@ -30,7 +30,7 @@ Bachelor’s degree in Bioinformatics, minor in Health Sciences, Life Sciences, 
 Mohammed A. Mostajo Radji and Jesus Gonzalez Ferrer  
 
 **Institución:**  
-ESCI-UPF 
+UCSC Genome Browser & ESCI-UPF
 
 **Año:**  
 2025
